@@ -2,13 +2,12 @@
   position: relative;
 }
 header{
-  background:#006699;
-  padding: 20px;
+ padding: 20px;
 }
 confmenu
 {
 	#width: 800px;
-	background: #333;
+	background: #99b8cd;
 	margin-bottom: 10px;
 }
 confmenu ul
@@ -202,4 +201,5 @@ width: 195px;
 }
 body {
 background-image:url(https://driver.cool3c.com/files/7/windows-xp-bliss-start-screen-100259803-orig.jpg);
+background-size:2500px 1500px
 
